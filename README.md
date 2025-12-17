@@ -20,7 +20,7 @@ The pedal cycles through effects in the following order:
 5. Bitcrusher  
 6. Tremolo  
 7. Flanger  
-8. Soft Clip  
+8. Chorus
 
 ---
 
@@ -117,15 +117,15 @@ Short modulated delay with feedback.
 
 ---
 
-### Soft Clip (White)
-Gentle saturation and safety limiting.
+### Chorus (White)
+Classic chorus using a modulated short delay for widening and movement.
 
 | Knob | Function |
 |-----|----------|
 | P1  | Volume |
 | P2  | Mix |
-| P3  | Drive |
-| P4  | Unused |
+| P3  | Rate |
+| P4  | Depth |
 | P5  | Unused |
 
 ---
